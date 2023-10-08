@@ -10,8 +10,7 @@ Introducing our exciting Tic Tac Toe (XO) game for Flutter, now with a thrilling
 ## Screenshots 
 
 
-![WhatsApp Image 2023-10-08 at 13 51 40](https://github.com/AhmedBelal31/Tic-Tac-Toe-Game/assets/131663660/8fc063fb-7160-47ef-b38a-6548e95a171e)
-![2](https://github.com/AhmedBelal31/Tic-Tac-Toe-Game/assets/131663660/e20ea491-803b-47c1-ae53-ee642b3fd384)
+![WhatsApp Image 2023-10-08 at 13 51 40](https://github.com/AhmedBelal31/Tic-Tac-Toe-Game/assets/131663660/8fc063fb-7160-47ef-b38a-6548e95a171e)![2](https://github.com/AhmedBelal31/Tic-Tac-Toe-Game/assets/131663660/e20ea491-803b-47c1-ae53-ee642b3fd384)
 ![3](https://github.com/AhmedBelal31/Tic-Tac-Toe-Game/assets/131663660/e9456825-f3e5-400a-a810-d3b11cdc6959)
 ![4](https://github.com/AhmedBelal31/Tic-Tac-Toe-Game/assets/131663660/67a5963a-baf3-4248-ba87-608546606ff0)
 
